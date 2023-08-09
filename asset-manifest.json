@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/PizzaPlace-react/static/css/main.5bf0f893.css",
-    "main.js": "/PizzaPlace-react/static/js/main.77e9eae6.js",
+    "main.css": "/PizzaPlace-react/static/css/main.c142d590.css",
+    "main.js": "/PizzaPlace-react/static/js/main.7eb31410.js",
     "static/js/787.7063da2e.chunk.js": "/PizzaPlace-react/static/js/787.7063da2e.chunk.js",
     "static/media/pizzaLeft.jpg": "/PizzaPlace-react/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
     "static/media/vegan.jpg": "/PizzaPlace-react/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
@@ -14,12 +14,12 @@
     "static/media/margherita.jpg": "/PizzaPlace-react/static/media/margherita.683bc9bb07f9ff0d82df.jpg",
     "static/media/mackiespecial.jpg": "/PizzaPlace-react/static/media/mackiespecial.425951cb0e484775fd4c.jpg",
     "index.html": "/PizzaPlace-react/index.html",
-    "main.5bf0f893.css.map": "/PizzaPlace-react/static/css/main.5bf0f893.css.map",
-    "main.77e9eae6.js.map": "/PizzaPlace-react/static/js/main.77e9eae6.js.map",
+    "main.c142d590.css.map": "/PizzaPlace-react/static/css/main.c142d590.css.map",
+    "main.7eb31410.js.map": "/PizzaPlace-react/static/js/main.7eb31410.js.map",
     "787.7063da2e.chunk.js.map": "/PizzaPlace-react/static/js/787.7063da2e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bf0f893.css",
-    "static/js/main.77e9eae6.js"
+    "static/css/main.c142d590.css",
+    "static/js/main.7eb31410.js"
   ]
 }
