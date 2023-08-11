@@ -10,8 +10,9 @@ import {BrowserRouter as Router, Routes, Route} from "react-router-dom";
 
 function App() {
   return (
+    <Router basename="/pizza_place_react">
     <div className="App">
-      <Router>
+     
         <Navbar/>
         <Routes>
             <Route path="/" element={<Home/>} /> 
@@ -21,9 +22,10 @@ function App() {
        
         </Routes>
         <Footer/>
-      </Router>
+   
    
     </div>
+    </Router>
   );
 }
 
